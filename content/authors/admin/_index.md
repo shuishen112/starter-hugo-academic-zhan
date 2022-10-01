@@ -43,6 +43,6 @@ highlight_name: true
 first_name: Nelson
 email: ""
 ---
-I am PhD student in University of Copenhagen.  This is my second year of my PhD. I am interested in web tracking, information retrieval, natural language processing, quantum machine learning. 
+I am a PhD student at the University of Copenhagen.  This is the second year of my PhD. I am interested in web tracking, information retrieval, natural language processing and quantum machine learning.  
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
