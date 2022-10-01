@@ -1,9 +1,9 @@
 ---
-title: Zhan Su
+title: Zhan Su (苏展)
 role: PhD student in University of Copenhagen
 avatar_filename: avatar.jpg
-bio: "My research interests include NLP, information retrieval and quantum
-  machine learning. "
+bio: "My research interests include NLP, information retrieval , quantum machine
+  learning. "
 interests:
   - NLP
   - information retrieval and quantum machine learning
