@@ -1,13 +1,12 @@
 ---
 title: Zhan Su
 role: PhD student in University of Copenhagen
-avatar_filename: avatar_hue87d5ba76e17030e838075a796ff6248_63522_270x270_fill_q75_lanczos_center.jpeg
+avatar_filename: avatar.jpg
 bio: "My research interests include NLP, information retrieval and quantum
   machine learning. "
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - NLP
+  - information retrieval and quantum machine learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -37,7 +36,7 @@ education:
       year: 2016
     - course: BSc in Computer Science
       institution: North University of China
-      year: 2007
+      year: 2012
 superuser: true
 last_name: Bighetti
 highlight_name: true
